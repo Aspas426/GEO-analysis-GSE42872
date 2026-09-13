@@ -1,0 +1,9 @@
+GEOparse
+pandas
+numpy
+scipy
+statsmodels
+matplotlib
+seaborn
+gseapy
+biopython
